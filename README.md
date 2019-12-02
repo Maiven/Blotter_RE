@@ -32,7 +32,7 @@
 <b>월스트리트저널 인포그래픽 가이드</b>: http://www.yes24.com/Product/Goods/12292773 <br>
 <b>통계의 힘</b>: http://www.yes24.com/Product/Goods/42660899 <br>
 <b>통계학도감</b>: http://www.yes24.com/Product/Goods/63712128 <br>
-
+<b>ggplot2 Book</b>: https://ggplot2-book.org/ <br>
 
 ---------
 # 문의
